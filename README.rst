@@ -5,7 +5,7 @@ Vulnerable OS Collection
 #########################################################################
 
 We've created four Vulnerable OS's based on Ubuntu Desktop and real world vulnerable web applications.
-The vulnerable OS's was created to help train pentesters, web application developers to test the application and find common application vulnerabilitys.
+The vulnerable OS's was created to help train pentesters, web application developers to test the application and find common application vulnerabilities.
 
 These categories are:
  * Command Injection (CI)
