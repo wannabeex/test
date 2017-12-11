@@ -8,7 +8,7 @@ We've created four Vulnerable OS's based on Ubuntu Desktop and real world vulner
 The vulnerable OS's was created to help train pentesters, web application developers to test the application and find common application vulnerabilitys.
 
 These categories are:
- * Command Injection -(CI)
+ * Command Injection (CI)
     * AjaXplorer
     * Basilic
     * LotusCMS
@@ -19,7 +19,7 @@ These categories are:
     * SugarCRM
     * Zenoss
     * Splunk
- * Arbitray File Upload -(AFU)
+ * Arbitray File Upload (AFU)
     * AppRain CMF
     * Cuteflow
     * eXtplorer
@@ -37,7 +37,7 @@ These categories are:
     * XODA
     * ChillyCMS
     * Free-Blog
- * Cross-Site-Scripting -(XSS)
+ * Cross-Site-Scripting (XSS)
     * Achievo
     * ArticleSetup 
     * BigTree-CMS
@@ -53,7 +53,7 @@ These categories are:
     * PHP Ticket System
     * ShoutBox
     * Syndeo CMS
-* SQL Injection -(SQL)
+* SQL Injection (SQL)
     * FoeCMS
     * Joomla CMS
     * Posnic
@@ -72,15 +72,18 @@ These categories are:
 ##############
 OS Credentials
 ##############
-Username: SecurityTube
-Password: 123321
-##############
+
+- Username: SecurityTube
+- Password: 123321
+
+#################
 Solution Manuals
-##############
-Command Injection: 
-Arbitray File Upload:
-Cross-Site-Scripting:
-SQL Injection: 
+#################
+
+- Command Injection: 
+- Arbitray File Upload:
+- Cross-Site-Scripting:
+- SQL Injection: 
  
 #############################
 Vulnerable OS Video
