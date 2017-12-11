@@ -80,10 +80,10 @@ OS Credentials
 Solution Manuals
 #################
 
-- Command Injection: 
-- Arbitray File Upload:
-- Cross-Site-Scripting:
-- SQL Injection: 
+- Command Injection: <link>
+- Arbitray File Upload: <link>
+- Cross-Site-Scripting: <link>
+- SQL Injection: <link>
  
 #############################
 Vulnerable OS Video
