@@ -1,4 +1,4 @@
-[logo]: https://user-images.githubusercontent.com/743886/33368642-3d352df2-d518-11e7-8d2a-3d0144c25125.jpg
+[[https://user-images.githubusercontent.com/743886/33368642-3d352df2-d518-11e7-8d2a-3d0144c25125.jpg]]
 
 #########################################################################
 Vulnerable Router Project (VRP)
